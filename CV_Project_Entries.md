@@ -22,6 +22,17 @@ Use these entries only if you can explain every detail in an interview.
 - Worked through testing feedback from 4 teammates and corrected the errors they identified.
 - Documented the database tables, key fields, and intended relationships for project handover.
 
+## Additional Experience
+
+**Volunteer — Resala Charity**  
+*Beginning of second academic year*
+
+- Helped people in need through short-term charitable volunteering.
+
+## Oracle SCM Job-Market Review
+
+Five job advertisements were reviewed for recurring requirements. See [Oracle Fusion Cloud SCM — Job Requirements Review](Career-Research/Oracle-Fusion-SCM-Job-Requirements-Review.md). The review is used to guide the career focus only; these Oracle modules and tools are not claimed as current hands-on skills.
+
 ## Accuracy notes
 
 - GYM AI was a system proposal and planning deliverable, not a deployed AI product.

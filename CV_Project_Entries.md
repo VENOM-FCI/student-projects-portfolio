@@ -2,6 +2,12 @@
 
 Use these entries only if you can explain every detail in an interview.
 
+## Career focus for the CV Summary
+
+**Aspiring Oracle Fusion Cloud SCM Functional Consultant**, with an academic background in Information Systems and an interest in supply-chain business processes and enterprise systems. Target learning areas include Inventory, Procurement, Order Management, Costing, P2P/O2C, the implementation lifecycle (requirements, configuration, SIT/UAT, data migration, and go-live), OTBI/BI Publisher, REST/SOAP integrations, and Oracle Integration Cloud (OIC).
+
+**Important:** This is career direction and target learning scope, not a claim of hands-on Oracle experience. Keep Oracle modules, tools, and implementation terms out of the current Key Skills list until you have studied or practised them enough to explain them in an interview.
+
 ## GYM AI — System Analysis & Project Planning
 *Team Leader & Final Document Designer | 5-student team*
 

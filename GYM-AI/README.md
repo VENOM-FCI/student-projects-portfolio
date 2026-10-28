@@ -33,9 +33,10 @@ The source report includes:
 
 I led the five-person student team and designed the final report, bringing the system request, feasibility study, work plan, WBS, staffing plan, and risk assessment into one structured deliverable.
 
-## Report summary
+## Project documents
 
-See [project report summary](docs/project-report-summary.md) for a concise overview of the proposed system and planning artifacts.
+- [Sanitized report as Markdown](docs/GYM-AI-Academic-Project-Report.md) — fuller text version with personal contact details omitted.
+- [Report summary](docs/project-report-summary.md) — concise overview of the proposed system and planning artifacts.
 
 ## Accuracy note
 

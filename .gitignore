@@ -1,0 +1,9 @@
+# Do not publish original Access databases before reviewing and sanitizing all records.
+*.accdb
+*.mdb
+*.laccdb
+
+# Common local/temporary files
+.DS_Store
+Thumbs.db
+~$*
